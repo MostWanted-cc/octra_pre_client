@@ -36,7 +36,7 @@ cp wallet.json.example wallet.json
 ```
 
 3. open wallet.json and edit it (change placeholders to your wallet data):
-
+22
 ```json
 {
   "priv": "private-key-here",
